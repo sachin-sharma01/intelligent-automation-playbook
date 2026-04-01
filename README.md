@@ -40,7 +40,7 @@ If you're building automations professionally, this might save you hours of debu
 - **Self-hosted Automation:** n8n (on Hetzner VPS)
 - **AI:** OpenAI, Claude (Anthropic), Azure OpenAI
 - **Vector DB:** Supabase (pgvector)
-- **Frontend:** React, TypeScript
+- **Frontend:** Angular, React, TypeScript
 - **DevOps:** Azure, GitHub Actions, CI/CD
 
 ---
